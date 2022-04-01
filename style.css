@@ -1,0 +1,27 @@
+#header {
+    font-family:'Gill Sans', 'Gill Sans MT', 'Trebuchet MS', sans-serif;
+    background-color: brown;
+    color: rgb(189, 189, 189)
+}
+.list .recipe {
+    font-size: 18px;
+    font-family: monospace, sans-serif;
+    color: white;
+}
+.one {
+    background-color: blue;
+}
+.recipe.two {
+    background-color: green;
+}
+.list .three {
+    background-color: red;
+}
+#approve {
+    background-color: green;
+    color:black
+}
+#noapprove {
+    background-color: red;
+    color:white;
+}
